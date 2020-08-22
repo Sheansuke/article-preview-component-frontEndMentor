@@ -1,7 +1,9 @@
 {
   "name": "app",
   "version": "0.1.0",
+  "author": "Sheansuke",
   "private": true,
+  "license": "MIT",
   "homepage": "https://sheansuke.github.io/article-preview-component-frontEndMentor/",
   "repository": {
     "type": "git",
