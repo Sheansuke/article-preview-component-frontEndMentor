@@ -2,6 +2,12 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sheansuke.github.io/article-preview-component-frontEndMentor/",
+  "repository": {
+    "type": "git",
+    "user": "https://github.com/Sheansuke",
+    "url": ""
+  },
   "dependencies": {
     "@react-hook/window-size": "^3.0.7",
     "@testing-library/jest-dom": "^4.2.4",
@@ -19,6 +25,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
