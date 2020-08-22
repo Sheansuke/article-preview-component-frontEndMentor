@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.876253dc.chunk.css",
-    "main.js": "/static/js/main.7823402f.chunk.js",
-    "main.js.map": "/static/js/main.7823402f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.92ee656d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.92ee656d.js.map",
-    "static/js/2.6f9427af.chunk.js": "/static/js/2.6f9427af.chunk.js",
-    "static/js/2.6f9427af.chunk.js.map": "/static/js/2.6f9427af.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f0b6d2a5cb5e4becec5c336f02d650ac.js": "/precache-manifest.f0b6d2a5cb5e4becec5c336f02d650ac.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.876253dc.chunk.css.map": "/static/css/main.876253dc.chunk.css.map",
-    "static/js/2.6f9427af.chunk.js.LICENSE.txt": "/static/js/2.6f9427af.chunk.js.LICENSE.txt",
-    "static/media/drawers.jpg": "/static/media/drawers.bcb67475.jpg"
+    "main.css": "/article-preview-component-frontEndMentor/static/css/main.876253dc.chunk.css",
+    "main.js": "/article-preview-component-frontEndMentor/static/js/main.7823402f.chunk.js",
+    "main.js.map": "/article-preview-component-frontEndMentor/static/js/main.7823402f.chunk.js.map",
+    "runtime-main.js": "/article-preview-component-frontEndMentor/static/js/runtime-main.355236a4.js",
+    "runtime-main.js.map": "/article-preview-component-frontEndMentor/static/js/runtime-main.355236a4.js.map",
+    "static/js/2.6f9427af.chunk.js": "/article-preview-component-frontEndMentor/static/js/2.6f9427af.chunk.js",
+    "static/js/2.6f9427af.chunk.js.map": "/article-preview-component-frontEndMentor/static/js/2.6f9427af.chunk.js.map",
+    "index.html": "/article-preview-component-frontEndMentor/index.html",
+    "precache-manifest.d00ea8a5d06783b5bba1743247a001e4.js": "/article-preview-component-frontEndMentor/precache-manifest.d00ea8a5d06783b5bba1743247a001e4.js",
+    "service-worker.js": "/article-preview-component-frontEndMentor/service-worker.js",
+    "static/css/main.876253dc.chunk.css.map": "/article-preview-component-frontEndMentor/static/css/main.876253dc.chunk.css.map",
+    "static/js/2.6f9427af.chunk.js.LICENSE.txt": "/article-preview-component-frontEndMentor/static/js/2.6f9427af.chunk.js.LICENSE.txt",
+    "static/media/drawers.jpg": "/article-preview-component-frontEndMentor/static/media/drawers.bcb67475.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.92ee656d.js",
+    "static/js/runtime-main.355236a4.js",
     "static/js/2.6f9427af.chunk.js",
     "static/css/main.876253dc.chunk.css",
     "static/js/main.7823402f.chunk.js"
